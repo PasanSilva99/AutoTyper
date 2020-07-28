@@ -1,0 +1,10 @@
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\bin\Debug\AutoKeyStroke.exe.config
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\bin\Debug\AutoKeyStroke.exe
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\bin\Debug\AutoKeyStroke.pdb
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\obj\Debug\AutoKeyStroke.csprojAssemblyReference.cache
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\obj\Debug\AutoKeyStroke.Form1.resources
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\obj\Debug\AutoKeyStroke.Properties.Resources.resources
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\obj\Debug\AutoKeyStroke.csproj.GenerateResource.cache
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\obj\Debug\AutoKeyStroke.csproj.CoreCompileInputs.cache
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\obj\Debug\AutoKeyStroke.exe
+C:\Users\pasan\source\repos\AutoKeyStroke\AutoKeyStroke\obj\Debug\AutoKeyStroke.pdb
